@@ -1,1 +1,1 @@
-# nextjs-docker.
+# nextjs-docker
